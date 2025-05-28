@@ -1,16 +1,13 @@
-# 🤖 Official Telegram Bot Kuppihub
+# 🤖 Official Telegram Bot – Kuppihub
 
-Hi there! I'm **KupppiHub Telegram  Bot**, a powerful Telegram bot  helps users convert any file into a **direct download link**, **stream link**, and a **Telegram shareable link**. ✨
+> This is a demo. We’ve modified some features for our purposes.
 
----
+
 
 ## 🚀 Features
 
 - 📤 Upload any **video**, **photo**, **audio**, or **document** (up to 4GB)
-- 🔗 Get a **direct download link**
-- 📺 Get a **stream link** for files under 20MB
 - 📬 Get a **Telegram shareable link**
-- 💡 No need for your friends to have Telegram to access files!
 
 ---
 
